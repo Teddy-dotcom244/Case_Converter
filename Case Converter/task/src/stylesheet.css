@@ -1,0 +1,15 @@
+
+
+.buttons {
+    align-content: normal;
+    background-color: whitesmoke;
+    border-radius: 15px;
+}
+
+#text-area {
+    align-content: center;
+    width: 500px;
+    height: 100px;
+    border-width: thick;
+    background-color: beige;
+}
